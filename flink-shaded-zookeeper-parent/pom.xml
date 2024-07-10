@@ -35,6 +35,7 @@ under the License.
     <modules>
         <module>flink-shaded-zookeeper-37</module>
         <module>flink-shaded-zookeeper-38</module>
+        <module>flink-shaded-zookeeper-39</module>
     </modules>
 
     <properties>
